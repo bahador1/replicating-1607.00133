@@ -3,3 +3,4 @@ torch==1.6.0
 diffprivlib==0.3.0
 torchvision==0.7.0
 numpy==1.19.2
+scikit-learn==0.22
